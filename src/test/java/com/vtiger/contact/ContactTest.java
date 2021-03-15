@@ -19,6 +19,6 @@ public class ContactTest
    @Test
    public void deletecontacttest(String name)
    {
-	   System.out.println("execute delete contacttest456");
+	   System.out.println("execute delete contacttest45678");
    }
 }
