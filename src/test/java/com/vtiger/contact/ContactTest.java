@@ -20,5 +20,6 @@ public class ContactTest
    public void deletecontacttest()
    {
 	   System.out.println("execute delete contacttest123 ");
+	   System.out.println("execute delete contacttest4567");
    }
 }
