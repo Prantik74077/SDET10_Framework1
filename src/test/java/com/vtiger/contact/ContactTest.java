@@ -17,8 +17,8 @@ public class ContactTest
    }
    
    @Test
-   public void deletecontacttest(String name)
+   public void deletecontacttest()
    {
-	   System.out.println("execute delete contacttest456789");
+	   System.out.println("execute delete contacttest4567");
    }
 }
