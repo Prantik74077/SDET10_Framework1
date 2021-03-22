@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78" started-at="2021-03-22T21:46:31 IST" finished-at="2021-03-22T21:46:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78" started-at="2021-03-22T21:46:31 IST" finished-at="2021-03-22T21:46:31 IST">
+      <class name="com.practicejava.Test41">
+        <test-method status="PASS" signature="printnumberandsevennwords()[pri:0, instance:com.practicejava.Test41@5a8e6209]" name="printnumberandsevennwords" duration-ms="15" started-at="2021-03-22T21:46:31 IST" finished-at="2021-03-22T21:46:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printnumberandsevennwords -->
+      </class> <!-- com.practicejava.Test41 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
